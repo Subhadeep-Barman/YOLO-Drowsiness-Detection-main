@@ -1,0 +1,2 @@
+# YOLO-Drowsiness-Detection
+ The object decision model leverages the ultralytics/yolov5s architecture for precise object detection, trained on annotated datasets created using LabelImg and Label Studio. This model utilizes YOLOv5's advanced convolutional neural network to identify and classify objects within images with high accuracy. LabelImg and Label Studio facilitate efficient data labeling and annotation for optimal model performance.
